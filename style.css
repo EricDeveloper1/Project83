@@ -1,0 +1,13 @@
+#canvas {
+    border-radius: 10px;
+    border-color: black;
+    border-style: ridge;
+}
+
+h1, h2 {
+    color: darkcyan;
+}
+
+body {
+    background-color:lightgoldenrodyellow ;
+}
